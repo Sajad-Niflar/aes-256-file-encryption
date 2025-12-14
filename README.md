@@ -51,5 +51,5 @@ AES is a block cipher that operates on fixed-size blocks (16 bytes). Because fil
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/aes-256-file-encryption.git](https://github.com/YOUR_USERNAME/aes-256-file-encryption.git)
+   git clone https://github.com/Sajad-Niflar/aes-256-file-encryption.git
    cd aes-256-file-encryption
